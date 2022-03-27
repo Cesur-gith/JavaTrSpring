@@ -6,6 +6,8 @@ public class Q02 {
         for (int i =100; i>=50; i--){
 
             System.out.print(i + ",");
+
+
         }
     }
 }
